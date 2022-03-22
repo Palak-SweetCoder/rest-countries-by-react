@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# To see this app preview: [CLICK HERE]()
+>>>>>>> 37c95ab9c40604ae326f9fbc48c684d6848e4c3d
 
 # Getting Started with Create React App
 
