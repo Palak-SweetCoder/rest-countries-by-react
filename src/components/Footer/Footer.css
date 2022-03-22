@@ -1,0 +1,8 @@
+.foot {
+    color: whitesmoke;
+    background-color: darkslateblue;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 10px 20px;
+    grid-gap: 20px;
+}

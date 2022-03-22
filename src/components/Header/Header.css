@@ -1,0 +1,18 @@
+.head {
+    background-color: darkslateblue;
+}
+.main-nav {
+    color: whitesmoke;
+    background-color: darkslateblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 15px;
+    padding: 0;
+}
+
+.menu a {
+    color: whitesmoke;
+    text-decoration: none;
+    margin-right: 35px;
+}
